@@ -196,7 +196,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 ### Others
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[The Missing Semester of Your CS Education](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2-4 hours/week | - |
+[Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2-4 hours/week | - |
 
 ### Core systems
 
