@@ -193,11 +193,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS)
 
-### Others
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2-4 hours/week | - |
-
 ### Core systems
 
 **Topics covered**:
