@@ -169,10 +169,14 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 
 Courses | Duration | Effort | Notes | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Pre-Algebra](https://brilliant.org/courses/pre-algebra/) | - | - | - | none | - |
-[Mathematical Fundamentals](https://brilliant.org/courses/math-fundamentals/) | - | - | - | none | - |
+[Pre-Algebra](https://brilliant.org/courses/pre-algebra/) | - | - | ✓ | none | - |
+[Mathematical Fundamentals](https://brilliant.org/courses/math-fundamentals/) | - | - | ✓ | none | - |
+[Geometry Fundamentals](https://brilliant.org/courses/geometry-fundamentals) | - | - | - | Pre-algebra | - |
 [Algebra through Puzzles](https://brilliant.org/courses/algebra-fundamentals/) | - | - | - | pre-algebra, mathematical fundamentals | - |
+[Introduction to Algebra](https://brilliant.org/courses/introduction-to-algebra/) | - | - | - | none | - |
 [Algebra I](https://brilliant.org/courses/algebra-extensions/) | - | - | - | algebra through puzzles, mathematical fundamentals | - |
+[Geometry I](https://brilliant.org/courses/basic-2d-geometry/) | - | - | - | Geometry Fundamentals, Algebra through puzzels | - |
+[Algebra II](https://brilliant.org/courses/graphing-and-modeling/) | - | - | - | Algebra I, algebra through puzzles | - |
 [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alt](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
 [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | - | Calculus 1A | [chat](https://discord.gg/sddAsZg)
 [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | - | Calculus 1B | [chat](https://discord.gg/FNEcNNq)
